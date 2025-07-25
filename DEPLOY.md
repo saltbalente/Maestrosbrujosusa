@@ -1,7 +1,7 @@
 # 🚀 Instrucciones de Despliegue en Vercel
 
 ## Repositorio Creado
-✅ **Repositorio GitHub**: https://github.com/saltbalente/Maestrosbrujosusa
+✅ **Repositorio GitHub**: https://github.com/saltbalente/maestrosbrujosusa
 
 ## Pasos para Desplegar en Vercel
 
