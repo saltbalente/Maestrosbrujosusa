@@ -1,75 +1,100 @@
-# Brujos en Catemaco y Veracruz - Landing Page
+# Maestros Brujos USA - Sitio Web
 
-## 🔮 Descripción
+## Descripción
+Sitio web profesional para servicios de brujos especializados en Catemaco y Veracruz, ofreciendo amarres de amor y rituales ancestrales con tradición mexicana.
 
-Landing page optimizada para SEO enfocada en las palabras clave **"brujos en Catemaco"** y **"brujos en Veracruz"**. Esta página web promociona servicios de amarres de amor, hechizos y rituales con tradición ancestral mexicana.
+## Características
+- ✨ Diseño moderno y responsivo
+- 🎥 Video hero con reproducción automática
+- 📱 Optimizado para móviles
+- 🚀 Listo para desplegar en Vercel
+- 💬 Integración con WhatsApp
+- 🎨 Efectos visuales con partículas
+- 📋 Modales informativos para servicios
+- 🗺️ Sección de ubicaciones físicas
 
-## 🎯 Optimización SEO
-
-La página está completamente optimizada para:
-- **Palabra clave principal**: "brujos en catemaco"
-- **Palabra clave secundaria**: "brujos en veracruz"
-- **Keywords relacionadas**: amarres de amor catemaco, hechizos veracruz, magia ancestral
-
-## 📁 Estructura del Proyecto
-
-```
-├── index.html          # Página principal optimizada
-├── style.css           # Estilos CSS
-├── app.js             # JavaScript funcional
-├── logo.svg           # Logo del sitio
-├── *.png, *.webp, *.jpg # Imágenes optimizadas
-└── README.md          # Documentación
-```
-
-## ✨ Características
-
-- **Diseño Responsivo**: Compatible con móviles, tablets y desktop
-- **SEO Optimizado**: Meta tags, títulos y contenido optimizado para búsquedas
-- **Tradición Ancestral**: Enfoque en la auténtica brujería de Catemaco
-- **Llamadas a la Acción**: Botones de WhatsApp y teléfono integrados
-- **Modales Informativos**: Detalles de cada servicio espiritual
-- **Sección Geográfica**: Consultorios en diferentes estados
-
-## 🚀 Servicios Destacados
-
-1. **Amarre de Amor Tradicional de Catemaco**
-2. **Hechizo de Atracción Rápida Veracruzano**
-3. **Ritual de Unión Eterna de Catemaco**
-4. **Endulzamiento Espiritual Veracruzano**
-
-## 📱 Contacto
-
-- **WhatsApp**: +1 (317) 531-3802
-- **Teléfono**: (630) 847-0901
-
-## 🌐 Demo
-
-Para ver la página en funcionamiento, abre `index.html` en tu navegador o ejecuta un servidor local:
-
-```bash
-python3 -m http.server 8000
-```
-
-Luego visita: `http://localhost:8000`
-
-## 📈 SEO Features
-
-- Title optimizado con palabras clave geográficas
-- Meta description con términos específicos
-- Headers (H1, H2, H3) con keywords relevantes
-- Alt texts en imágenes con referencias geográficas
-- Contenido rico en palabras clave naturales
-- Estructura semántica HTML5
-
-## 🎨 Tecnologías
-
+## Tecnologías Utilizadas
 - HTML5 semántico
-- CSS3 con gradientes y animaciones
+- CSS3 con Grid y Flexbox
 - JavaScript vanilla
+- Canvas para efectos de partículas
 - Google Fonts (Cinzel, Special Elite)
-- SVG para iconografía
+- SVG para iconos y logos
+
+## Estructura del Proyecto
+```
+├── index.html          # Página principal
+├── style.css           # Estilos principales
+├── app.js              # Funcionalidad JavaScript
+├── vercel.json         # Configuración de Vercel
+├── README.md           # Este archivo
+├── logo.svg            # Logo principal
+├── simbolos-ocultismo.svg # Fondo decorativo
+├── Video_de_Chamán_Espiritual.mp4 # Video hero
+├── video-website.mp4   # Video adicional
+└── assets/             # Imágenes y recursos
+    ├── amor.png
+    ├── amarre-de-amor.png
+    ├── amarres-de-amor-hechizos.webp
+    ├── chaman-webs.png
+    ├── endulzamientos.jpg
+    ├── imagen-brujos-amarres.webp
+    └── image.png
+```
+
+## Despliegue en Vercel
+
+### Opción 1: Desde GitHub
+1. Sube el proyecto a un repositorio de GitHub
+2. Conecta tu cuenta de Vercel con GitHub
+3. Importa el repositorio en Vercel
+4. Vercel detectará automáticamente la configuración
+
+### Opción 2: Vercel CLI
+```bash
+# Instalar Vercel CLI
+npm i -g vercel
+
+# Desde la carpeta del proyecto
+vercel
+
+# Seguir las instrucciones en pantalla
+```
+
+### Opción 3: Arrastrar y soltar
+1. Ve a [vercel.com](https://vercel.com)
+2. Arrastra la carpeta del proyecto al área de despliegue
+3. Vercel desplegará automáticamente
+
+## Configuración de Dominio
+Una vez desplegado, puedes:
+1. Configurar un dominio personalizado en el dashboard de Vercel
+2. Agregar certificado SSL (automático)
+3. Configurar redirects si es necesario
+
+## Optimizaciones Incluidas
+- ✅ Compresión de imágenes WebP
+- ✅ Cache headers para recursos estáticos
+- ✅ Minificación automática
+- ✅ Headers de seguridad
+- ✅ Optimización para SEO
+- ✅ Meta tags para redes sociales
+
+## Variables de Entorno (Opcional)
+Si necesitas configurar variables de entorno:
+```bash
+# En Vercel dashboard o .env.local
+WHATSAPP_NUMBER=14802439808
+GOOGLE_ANALYTICS_ID=T8H6RZ69
+```
+
+## Mantenimiento
+- Las imágenes están optimizadas para web
+- El código está comentado para fácil mantenimiento
+- Estructura modular para futuras actualizaciones
+
+## Soporte
+Para soporte técnico o modificaciones, contacta al desarrollador.
 
 ---
-
-**© 2024 Brujos en Catemaco y Veracruz - Amarres de Amor Ancestrales**
+© 2024 Maestros Brujos USA - Todos los derechos reservados

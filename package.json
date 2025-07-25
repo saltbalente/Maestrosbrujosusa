@@ -1,0 +1,35 @@
+{
+  "name": "maestrosbrujosusa",
+  "version": "1.0.0",
+  "description": "Sitio web profesional para servicios de brujos especializados en Catemaco y Veracruz",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "start": "python3 -m http.server 8000",
+    "deploy": "vercel --prod",
+    "preview": "vercel"
+  },
+  "keywords": [
+    "brujos",
+    "catemaco",
+    "veracruz",
+    "amarres",
+    "amor",
+    "hechizos",
+    "rituales",
+    "magia",
+    "ancestral"
+  ],
+  "author": "Maestros Brujos USA",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usuario/maestrosbrujosusa.git"
+  },
+  "homepage": "https://maestrosbrujosusa.vercel.app",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
