@@ -84,7 +84,7 @@ Una vez desplegado, puedes:
 Si necesitas configurar variables de entorno:
 ```bash
 # En Vercel dashboard o .env.local
-WHATSAPP_NUMBER=14133912149
+WHATSAPP_NUMBER=13044360811
 GOOGLE_ANALYTICS_ID=T8H6RZ69
 ```
 

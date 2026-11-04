@@ -54,7 +54,7 @@ Una vez desplegado:
 Si necesitas configurar variables:
 1. Dashboard de Vercel → Settings → Environment Variables
 2. Agregar:
-   - `WHATSAPP_NUMBER`: 14133912149
+   - `WHATSAPP_NUMBER`: 13044360811
    - `GOOGLE_ANALYTICS_ID`: T8H6RZ69
 
 ## Actualizaciones Futuras
